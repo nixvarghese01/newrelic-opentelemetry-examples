@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [newrelic/newrelic-opentelemetry-examples](https://github.com/newrelic/newrelic-opentelemetry-examples) as a reference for **sending OpenTelemetry data to New Relic**. Related to my New Relic observability certification and OpenTelemetry work.
+> All credit for the content goes to the original authors.
+
 <a href="https://opensource.newrelic.com/oss-category/#example-code"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/dark/Example_Code.png"><source media="(prefers-color-scheme: light)" srcset="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Example_Code.png"><img alt="New Relic Open Source example project banner." src="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Example_Code.png"></picture></a>
 
 # New Relic OpenTelemetry Examples
